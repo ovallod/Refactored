@@ -8,7 +8,7 @@
 //********************************************************************
 //*   CREATE STORAGE GROUP/DATABASES/TABLESPACES                     *
 //********************************************************************
-//CREATE  EXEC PGM=IKJEFT01,DYNAMNBR=20
+//CREATE  EXEC PGM=IKJEFT01,DYNAMNBR=20 
 //SYSTSPRT DD SYSOUT=*
 //SYSTSIN  DD *
    DSN SYSTEM(<DB2SSID>)
