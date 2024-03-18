@@ -1,0 +1,33 @@
+{
+  "cobol": {
+    "expand": 2,
+    "scan": false,
+    "exclude": [],
+    "files": {
+      "INSCUST.cbl": {
+        "files": {
+          "..\\Java\\com\\ibm\\wcaz\\implementation\\Inscust.java": {
+            "files": {
+              "insertCustomer": {},
+              "main": {}
+            },
+            "expand": 1,
+            "exclude": [],
+            "scan": false
+          },
+          "..\\Java\\com\\ibm\\wcaz\\implementation\\ErrorMsg.java": {
+            "files": {
+              "writeErrorMessage": {}
+            },
+            "expand": 1,
+            "exclude": [],
+            "scan": false
+          }
+        },
+        "exclude": [],
+        "scan": false,
+        "expand": 1
+      }
+    }
+  }
+}
