@@ -1,15 +1,14 @@
 {
   "cobol": {
-    "expand": 2,
+    "expand": 1,
     "scan": false,
     "exclude": [],
     "files": {
-      "INSCUST.cbl": {
+      "INSCUSSV.cbl": {
         "files": {
-          "..\\Java\\com\\ibm\\wcaz\\implementation\\Inscust.java": {
+          "..\\Java\\com\\ibm\\wcaz\\implementation\\Inscussv.java": {
             "files": {
-              "insertCustomer": {},
-              "main": {}
+              "insertCustomer": {}
             },
             "expand": 1,
             "exclude": [],
@@ -27,7 +26,8 @@
         "exclude": [],
         "scan": false,
         "expand": 1
-      }
+      },
+      "INSCUST.cbl": {}
     }
   }
 }
