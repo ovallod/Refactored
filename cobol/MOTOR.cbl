@@ -81,6 +81,10 @@
              INCLUDE SQLCA
            END-EXEC.
 
+           EXEC SQL
+             INCLUDE DGENAPP
+           END-EXEC.
+
        LINKAGE SECTION.
 
        PROCEDURE DIVISION.
